@@ -37,28 +37,28 @@
       "id": 98443197
     },
     {
-      "cityName": "Berlin 2",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-02T16:46:41.235Z",
+      "notes": "beautiful city!!",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "48.85309385677925",
+        "lng": "2.3565673828125"
       },
-      "id": 98443194
+      "id": 98443199
     },
     {
-      "cityName": "Madrid 2",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-01-09T17:20:46.000Z",
+      "notes": "wonderful!!",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "53.34894461086447",
+        "lng": "-6.264266967773438"
       },
-      "id": 17806752
+      "id": 98443200
     }
   ]
 }
