@@ -7,7 +7,7 @@ import {
 } from "react";
 import axios from "axios";
 
-const BASE_URL = "/api";
+const BASE_URL = "http://localhost:8000";
 
 const CitiesContext = createContext();
 
